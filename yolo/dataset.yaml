@@ -1,0 +1,11 @@
+names:
+- Paragraph
+- Page Number
+- Table
+- Heading
+- Footnote
+- Listing
+- CenteredText
+num_classes: 7
+train: train/images
+val: test/images

@@ -1,0 +1,51 @@
+{
+    "coco_classes": {
+        "1": {
+            "name": "Paragraph",
+            "label": 0
+        },
+        "2": {
+            "name": "Page Number",
+            "label": 1
+        },
+        "3": {
+            "name": "Table",
+            "label": 2
+        },
+        "4": {
+            "name": "Heading",
+            "label": 3
+        },
+        "5": {
+            "name": "Footnote",
+            "label": 4
+        },
+        "6": {
+            "name": "Listing",
+            "label": 5
+        },
+        "7": {
+            "name": "CenteredText",
+            "label": 6
+        }
+    },
+    "id2label": {
+        "0": "Paragraph",
+        "1": "Page Number",
+        "2": "Table",
+        "3": "Heading",
+        "4": "Footnote",
+        "5": "Listing",
+        "6": "CenteredText"
+    },
+    "label2id": {
+        "Paragraph": 0,
+        "Page Number": 1,
+        "Table": 2,
+        "Heading": 3,
+        "Footnote": 4,
+        "Listing": 5,
+        "CenteredText": 6
+    },
+    "num_classes": 7
+}
