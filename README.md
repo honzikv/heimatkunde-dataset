@@ -1,6 +1,10 @@
 # Heimatkunde dataset
 Multi-modal layout analysis and classification dataset.
 
+## Experiments
+
+Experiments performed on this dataset are hosted on a different GitHub repository, which can be accessed here: https://github.com/honzikv/multimodal-document-processing-thesis
+
 ## Structure
 
 The root of the repository constitutes the root of the dataset. The structure is as follows:
