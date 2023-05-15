@@ -1,2 +1,3 @@
-# heimatkunde-dataset
-Multi-modal layout analysis dataset comprising historical documents
+# Heimatkunde
+Multi-modal layout analysis and classification dataset.
+
